@@ -1,1 +1,6 @@
 # Atividade1
+
+O que são HTML e CSS? 
+A linguagem HTML (HyperText Markup Language) significa linguagem de marcação de hipertexto. Trata-se de uma linguagem de marcação utilizada para produzir páginas na internet. Diversos documentos no formato HTML podem ser interpretados por vários navegadores web. A tecnologia é fruto da mescla entre os padrões HyTime e SGML. É uma linguagem de publicação, utilizada para estruturar conteúdos, sejam textos, imagens, vídeos ou áudios. Em suma, nenhum website existe se não existir uma estrutura em HTML.
+Já o CSS (Cascading Style Sheets) significa Folhas de Estilo em Cascata é uma linguagem de estilo utilizada para definir a apresentação de documentos escritos em uma linguagem de marcação, como HTML ou XML. Seu principal benefício é prover a separação entre o formato e o conteúdo de um documento. O CSS é uma linguagem mais voltada para a estética, utilizada para formatar os conteúdos já estruturados.
+Essa linguagem é responsável pela aparência da página, como o posicionamento dos elementos, cores e tudo que torne o site mais visualmente agradável para a navegação. Para ter conhecimentos em CSS o web designer precisa primeiramente conhecer o HTML profundamente, senão ele não entenderia conceitos de como aplicar o estilo com o CSS.
